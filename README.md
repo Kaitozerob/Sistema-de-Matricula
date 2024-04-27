@@ -3,7 +3,7 @@ INFORME DEL TRABAJO FINAL
 
 
 
-CONCLUSIONES
+## CONCLUSIONES
 El trabajo final para el curso de Algoritmos y Estructuras de Datos ha culminado con
 múltiples conclusiones significativas que resaltan la relevancia y la aplicación práctica
 del conocimiento adquirido. A continuación, se enumeran las conclusiones principales:
@@ -27,7 +27,7 @@ que también fomenta nuestro crecimiento profesional, preparándonos para afront
 futuros retos en el sector tecnológico.
 
 
-. BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 ● Smith, J. (2019). Estructuras de Datos y Algoritmos en C++. Editorial
 Tecnológica.
 ● Smith, J., & Johnson, L. (2021). Gestión de datos en instituciones educativas:
