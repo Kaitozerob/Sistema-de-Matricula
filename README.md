@@ -1,6 +1,16 @@
 # Sistema-de-Matricula
 INFORME DEL TRABAJO FINAL
 
+## Objetivo:
+El propósito de este proyecto, desarrollado como parte del curso de Algoritmo y
+Estructuras de Datos y utilizando el lenguaje de programación C++, es construir un
+Sistema de Matrículas que afronte eficazmente los retos contemporáneos de la gestión
+académica. El objetivo es mejorar la eficiencia del proceso de inscripción y optimizar la
+administración de los recursos académicos. Al integrar avanzadas técnicas de
+programación y estructuras de datos, este sistema busca facilitar la gestión de
+información de estudiantes y docentes, así como la organización y optimización de
+horarios, resultando en un proceso de matriculación más ágil y accesible para la
+comunidad educativa.
 
 
 ## CONCLUSIONES
