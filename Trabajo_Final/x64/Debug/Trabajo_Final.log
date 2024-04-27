@@ -1,0 +1,44 @@
+﻿  Source.cpp
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Horarios.h(29,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Source.cpp(13,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaProfesor.h(92,24): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "Source.cpp")
+  C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaProfesor.h(92,24):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Inicio.h(28,30):
+  	Vea la referencia a la creación de una instancia de clase plantilla "ListaProfesor<Profesor *>" que se está compilando
+  	C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaProfesor.h(81,7):
+  	al compilar la función del miembro clase plantilla "void ListaProfesor<Profesor *>::InsertarPosicion(T,uint)"
+          with
+          [
+              T=Profesor *
+          ]
+  		C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaProfesor.h(107,19):
+  		vea la primera referencia a “ListaProfesor<Profesor *>::InsertarPosicion” en “ListaProfesor<Profesor *>::InsertarFinal”
+  		C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Inicio.h(334,31):
+  		vea la primera referencia a “ListaProfesor<Profesor *>::InsertarFinal” en “Inicio::GenerarProfesor”
+  
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaEstudiante.h(107,24): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "Source.cpp")
+  C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaEstudiante.h(107,24):
+  el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+  	C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Inicio.h(27,34):
+  	Vea la referencia a la creación de una instancia de clase plantilla "ListaEstudiante<Estudiante *>" que se está compilando
+  	C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaEstudiante.h(96,7):
+  	al compilar la función del miembro clase plantilla "void ListaEstudiante<Estudiante *>::InsertarPosicion(T,uint)"
+          with
+          [
+              T=Estudiante *
+          ]
+  		C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaEstudiante.h(122,19):
+  		vea la primera referencia a “ListaEstudiante<Estudiante *>::InsertarPosicion” en “ListaEstudiante<Estudiante *>::InsertarFinal”
+  		C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\Inicio.h(134,35):
+  		vea la primera referencia a “ListaEstudiante<Estudiante *>::InsertarFinal” en “Inicio::IniciarSesion”
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\ListaProfesor.h(53,1): warning C4715: 'ListaProfesor<Profesor *>::Buscar': no todas las rutas de acceso de control devuelven un valor
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Trabajo_Final.vcxproj -> C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\x64\Debug\Trabajo_Final.exe

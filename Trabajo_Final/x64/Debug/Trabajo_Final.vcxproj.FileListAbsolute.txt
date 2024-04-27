@@ -1,0 +1,6 @@
+C:\Users\ASUS\OneDrive\Trabajo_Final\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Trabajo_Final\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxqz\Downloads\citamedica\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.AssemblyReference.cache
+C:\Users\maxqz\OneDrive\Escritorio\TP_Algoritmos\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.AssemblyReference.cache
+C:\Users\maxqz\Downloads\TP_Algoritmos\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.AssemblyReference.cache
+C:\Users\Kaito\Downloads\TP_Algoritmos\TP_Algoritmos\Trabajo_Final\x64\Debug\Trabajo_Final.vcxproj.AssemblyReference.cache
