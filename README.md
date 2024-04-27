@@ -30,7 +30,9 @@ futuros retos en el sector tecnológico.
 ## BIBLIOGRAFÍA
 ● Smith, J. (2019). Estructuras de Datos y Algoritmos en C++. Editorial
 Tecnológica.
+
 ● Smith, J., & Johnson, L. (2021). Gestión de datos en instituciones educativas:
 Un enfoque práctico. Ediciones Universitarias.
+
 ● García García, D. (2022). Implementación alternativa de una tabla hash en C++.
 https://oa.upm.es/70016
