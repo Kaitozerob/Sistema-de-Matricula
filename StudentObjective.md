@@ -1,4 +1,5 @@
-OBJETIVO DEL ESTUDIANTE
+# OBJETIVO DEL ESTUDIANTE
+
 El objetivo central del estudiante al emprender este trabajo final fue la implementación
 efectiva de las competencias adquiridas en el curso, enfocándose en aspectos clave
 como la programación con orientación a objetos, la manipulación de estructuras de
